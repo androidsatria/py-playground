@@ -1,2 +1,2 @@
 # py-playground
-A repo for python
+A repo for python 3
